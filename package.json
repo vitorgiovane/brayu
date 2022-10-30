@@ -1,0 +1,22 @@
+{
+  "name": "brayu",
+  "displayName": "Brayu",
+  "description": "A dark theme based on Ayu theme",
+  "version": "0.0.1",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "brayu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/brayu-color-theme.json"
+      }
+    ]
+  }
+}
