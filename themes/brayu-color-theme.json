@@ -80,7 +80,6 @@
 		"minimapGutter.modifiedBackground": "#73b8ff",
 		"minimapGutter.deletedBackground": "#f26d78",
 		"editorGroup.border": "#1e232b",
-		"editorGroup.background": "#0f131a",
 		"editorGroupHeader.noTabsBackground": "#0b0e14",
 		"editorGroupHeader.tabsBackground": "#0b0e14",
 		"editorGroupHeader.tabsBorder": "#1e232b",
@@ -256,6 +255,16 @@
 			],
 			"settings": {
 				"foreground": "#aad94c"
+			}
+		},
+		{
+			"name": "Symbol",
+			"scope": [
+				"constant.other.symbol"
+			],
+			"settings": {
+				"foreground": "#b4abfa"
+				// #ecbc72
 			}
 		},
 		{
@@ -442,7 +451,7 @@
 				"entity.name.function"
 			],
 			"settings": {
-				"foreground": "#ffb454"
+				"foreground": "#FFD932"
 			}
 		},
 		{
