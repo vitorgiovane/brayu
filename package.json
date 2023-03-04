@@ -3,6 +3,11 @@
   "displayName": "Brayu",
   "description": "A dark theme based on Ayu theme",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/vitorgiovane/brayu"
+  },
+  "publisher": "vitorgiovane",
   "license": "MIT",
   "engines": {
     "vscode": "^1.72.0"
